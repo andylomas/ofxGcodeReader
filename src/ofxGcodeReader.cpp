@@ -1,5 +1,4 @@
 #include "ofxGcodeReader.h"
-#include "helpers.h"
 
 #ifdef USING_OPTIX
 std::string ofToDataPath(std::string s) { return s; }
